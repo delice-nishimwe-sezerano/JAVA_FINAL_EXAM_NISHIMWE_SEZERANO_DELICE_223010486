@@ -19,11 +19,11 @@ The application follows the **Model-View-Controller (MVC)** architectural patter
 ## Technologies Used
 - **Java (JDK 8)**
 - **Java Swing** (GUI)
-- **MySQL 8+** (Database)
+- **MySQL 9.3.0** (Database)
 - **JDBC** (Database connectivity)
 - **MVC Architecture**
 - **JUnit** (Testing)
-- **Git & GitHub**
+- **GitHub**
 
 ## Project Structure
 
