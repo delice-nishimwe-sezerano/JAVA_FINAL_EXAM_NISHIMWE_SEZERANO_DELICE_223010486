@@ -32,5 +32,17 @@ COM.PANEL – GUI panels (View layer)
 COM.UTIL – Database utilities (JDBC, Singleton DB)
 COM.TEST – Unit and integration tests
 
+**Testing**
+
+The system was tested using JUnit, covering unit, integration, and system-level tests to ensure reliability, performance, and correctness.
+
+**Future Enhancements**
+
+Web-based and mobile versions
+Payment gateway integration (PayPal, Stripe)
+Advanced analytics and reporting dashboards
+RESTful API support
+Enhanced security (2FA, audit logs)
+
 
 
